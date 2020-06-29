@@ -1,0 +1,20 @@
+// Posts Navigation
+.site-content .content-wrapper .post-navigation {
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+
+.site-content .content-wrapper .post-navigation .nav-links a {
+    color: $secondary-black-color;
+    font-size: .85rem;
+    font-weight: weight(semi-bold);
+}
+
+.site-content .content-wrapper .post-navigation .nav-links span,
+.site-content .content-wrapper .post-navigation .nav-links a {
+    padding: 8px 15px;
+    border: 1px solid $light-grey-color;
+    background: $secondary-white-color;
+    height: 25px;
+    width: auto;
+}
